@@ -1,0 +1,125 @@
+{
+    "stages": [
+      {
+        "stage": "NonDemented",
+        "symptoms": "No symptoms of cognitive decline or memory loss.",
+        "medical_suggestions": {
+          "diagnosis": "No diagnosis is needed at this stage.",
+          "treatment": "No treatment is needed at this stage.",
+          "clinical_trials": "No clinical trials are available at this stage.",
+          "support_groups": "No support groups are available at this stage."
+        },
+        "prevention": {
+          "healthy_lifestyle": "Maintain a healthy lifestyle by eating a balanced diet, exercising regularly, getting enough sleep, and managing stress.",
+          "brain_health": "Engage in activities that promote brain health, such as reading, learning new skills, and staying socially active.",
+          "heart_health": "Manage cardiovascular risk factors like high blood pressure, high cholesterol, and diabetes, as these can increase the risk of Alzheimer's disease.",
+          "mental_health": "Maintain good mental health by staying socially connected, seeking treatment for depression or anxiety, and managing chronic stress."
+        },
+        "conservation": {
+          "cognitive_stimulation": "Engage in activities that stimulate the brain, such as puzzles, games, and learning new skills.",
+          "physical_activity": "Regular physical activity can improve cognitive function and reduce the risk of Alzheimer's disease.",
+          "social_engagement": "Stay socially active by participating in social events, volunteering, and maintaining relationships with friends and family.",
+          "healthy_diet": "A balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats can support brain health.",
+          "sleep_quality": "Adequate sleep is important for cognitive function and overall health. Practice good sleep hygiene to improve sleep quality."
+        },
+        "treatment": {
+          "medications": "No medications are needed at this stage.",
+          "behavioral_therapy": "No behavioral therapy is needed at this stage.",
+          "occupational_therapy": "No occupational therapy is needed at this stage.",
+          "physical_therapy": "No physical therapy is needed at this stage.",
+          "speech_therapy": "No speech therapy is needed at this stage."
+        }
+      },
+      {
+        "stage": "VeryMildDemented",
+        "symptoms": "Minor memory lapses, such as forgetting familiar words or names.",
+        "medical_suggestions": {
+          "diagnosis": "Diagnosis is based on a comprehensive assessment of symptoms, medical history, and cognitive tests.",
+          "treatment": "No treatment is needed at this stage.",
+          "clinical_trials": "No clinical trials are available at this stage.",
+          "support_groups": "No support groups are available at this stage."
+        },
+        "prevention": {
+          "healthy_lifestyle": "Maintain a healthy lifestyle by eating a balanced diet, exercising regularly, getting enough sleep, and managing stress.",
+          "brain_health": "Engage in activities that promote brain health, such as reading, learning new skills, and staying socially active.",
+          "heart_health": "Manage cardiovascular risk factors like high blood pressure, high cholesterol, and diabetes, as these can increase the risk of Alzheimer's disease.",
+          "mental_health": "Maintain good mental health by staying socially connected, seeking treatment for depression or anxiety, and managing chronic stress."
+        },
+        "conservation": {
+          "cognitive_stimulation": "Engage in activities that stimulate the brain, such as puzzles, games, and learning new skills.",
+          "physical_activity": "Regular physical activity can improve cognitive function and reduce the risk of Alzheimer's disease.",
+          "social_engagement": "Stay socially active by participating in social events, volunteering, and maintaining relationships with friends and family.",
+          "healthy_diet": "A balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats can support brain health.",
+          "sleep_quality": "Adequate sleep is important for cognitive function and overall health. Practice good sleep hygiene to improve sleep quality."
+        },
+        "treatment": {
+          "medications": "No medications are needed at this stage.",
+          "behavioral_therapy": "No behavioral therapy is needed at this stage.",
+          "occupational_therapy": "No occupational therapy is needed at this stage.",
+          "physical_therapy": "No physical therapy is needed at this stage.",
+          "speech_therapy": "No speech therapy is needed at this stage."
+        }
+      },
+      {
+        "stage": "MildDemented",
+        "symptoms": "Memory loss, difficulty concentrating, trouble with planning and organizing, and difficulty finding the right words.",
+        "medical_suggestions": {
+          "diagnosis": "Diagnosis is based on a comprehensive assessment of symptoms, medical history, and cognitive tests.",
+          "treatment": "Treatment focuses on managing symptoms and improving quality of life. Medications like cholinesterase inhibitors and memantine may help manage cognitive symptoms. Lifestyle interventions like regular exercise, a healthy diet, and social engagement may also be beneficial.",
+          "clinical_trials": "Participating in clinical trials can provide access to new treatments and contribute to research efforts to find a cure for Alzheimer's disease.",
+          "support_groups": "Joining a support group for caregivers and individuals with Alzheimer's disease can provide emotional support, practical advice, and information about available resources."
+        },
+        "prevention": {
+          "healthy_lifestyle": "Maintain a healthy lifestyle by eating a balanced diet, exercising regularly, getting enough sleep, and managing stress.",
+          "brain_health": "Engage in activities that promote brain health, such as reading, learning new skills, and staying socially active.",
+          "heart_health": "Manage cardiovascular risk factors like high blood pressure, high cholesterol, and diabetes, as these can increase the risk of Alzheimer's disease.",
+          "mental_health": "Maintain good mental health by staying socially connected, seeking treatment for depression or anxiety, and managing chronic stress."
+        },
+        "conservation": {
+          "cognitive_stimulation": "Engage in activities that stimulate the brain, such as puzzles, games, and learning new skills.",
+          "physical_activity": "Regular physical activity can improve cognitive function and reduce the risk of Alzheimer's disease.",
+          "social_engagement": "Stay socially active by participating in social events, volunteering, and maintaining relationships with friends and family.",
+          "healthy_diet": "A balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats can support brain health.",
+          "sleep_quality": "Adequate sleep is important for cognitive function and overall health. Practice good sleep hygiene to improve sleep quality."
+        },
+        "treatment": {
+          "medications": "Medications like cholinesterase inhibitors (e.g., donepezil, rivastigmine, galantamine) and memantine may help manage cognitive symptoms.",
+          "behavioral_therapy": "Behavioral therapy techniques, such as cognitive-behavioral therapy (CBT) and reality orientation therapy, may help manage behavioral symptoms.",
+          "occupational_therapy": "Occupational therapy can help individuals with Alzheimer's disease maintain independence and improve daily functioning.",
+          "physical_therapy": "Physical therapy can help improve mobility, balance, and strength in individuals with Alzheimer's disease.",
+          "speech_therapy": "Speech therapy can help individuals with Alzheimer's disease maintain communication skills and manage swallowing difficulties."
+        }
+      },
+      {
+        "stage": "ModerateDemented",
+        "symptoms": "Significant memory loss, difficulty with complex tasks like managing finances or planning meals, and difficulty with problem-solving.",
+        "medical_suggestions": {
+          "diagnosis": "Diagnosis is based on a comprehensive assessment of symptoms, medical history, and cognitive tests.",
+          "treatment": "Treatment focuses on managing symptoms and improving quality of life. Medications like cholinesterase inhibitors and memantine may help manage cognitive symptoms. Lifestyle interventions like regular exercise, a healthy diet, and social engagement may also be beneficial.",
+          "clinical_trials": "Participating in clinical trials can provide access to new treatments and contribute to research efforts to find a cure for Alzheimer's disease.",
+          "support_groups": "Joining a support group for caregivers and individuals with Alzheimer's disease can provide emotional support, practical advice, and information about available resources."
+        },
+        "prevention": {
+          "healthy_lifestyle": "Maintain a healthy lifestyle by eating a balanced diet, exercising regularly, getting enough sleep, and managing stress.",
+          "brain_health": "Engage in activities that promote brain health, such as reading, learning new skills, and staying socially active.",
+          "heart_health": "Manage cardiovascular risk factors like high blood pressure, high cholesterol, and diabetes, as these can increase the risk of Alzheimer's disease.",
+          "mental_health": "Maintain good mental health by staying socially connected, seeking treatment for depression or anxiety, and managing chronic stress."
+        },
+        "conservation": {
+          "cognitive_stimulation": "Engage in activities that stimulate the brain, such as puzzles, games, and learning new skills.",
+          "physical_activity": "Regular physical activity can improve cognitive function and reduce the risk of Alzheimer's disease.",
+          "social_engagement": "Stay socially active by participating in social events, volunteering, and maintaining relationships with friends and family.",
+          "healthy_diet": "A balanced diet rich in fruits, vegetables, whole grains, lean proteins, and healthy fats can support brain health.",
+          "sleep_quality": "Adequate sleep is important for cognitive function and overall health. Practice good sleep hygiene to improve sleep quality."
+        },
+        "treatment": {
+          "medications": "Medications like cholinesterase inhibitors (e.g., donepezil, rivastigmine, galantamine) and memantine may help manage cognitive symptoms.",
+          "behavioral_therapy": "Behavioral therapy techniques, such as cognitive-behavioral therapy (CBT) and reality orientation therapy, may help manage behavioral symptoms.",
+          "occupational_therapy": "Occupational therapy can help individuals with Alzheimer's disease maintain independence and improve daily functioning.",
+          "physical_therapy": "Physical therapy can help improve mobility, balance, and strength in individuals with Alzheimer's disease.",
+          "speech_therapy": "Speech therapy can help individuals with Alzheimer's disease maintain communication skills and manage swallowing difficulties."
+        }
+      }
+    ]
+  }
+  
